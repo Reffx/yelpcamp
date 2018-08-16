@@ -1,5 +1,5 @@
 // This is the code of https://github.com/nax3t/image_upload_example/tree/edit-delete
-// from the original youtube video https://www.youtube.com/watch?v=RHd4rP9U9SA
+// from the original youtube video https://www.youtube.com/watch?v=RHd4rP9U9SA part 1 & https://www.youtube.com/watch?v=U0GSOkbHW5o&t part 2
 // This code has additionally  added google maps included
 
 //CREATE NEW CAMPGROUND
